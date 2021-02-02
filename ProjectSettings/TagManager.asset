@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cenario
+    uniqueID: 893408873
+    locked: 0
+  - name: Itens
+    uniqueID: 1049927513
+    locked: 0
+  - name: Inimigos
+    uniqueID: 2352652671
+    locked: 0
+  - name: Player
+    uniqueID: 583574425
+    locked: 0
+  - name: UI
+    uniqueID: 1673609351
+    locked: 0
